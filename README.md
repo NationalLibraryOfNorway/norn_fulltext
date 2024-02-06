@@ -15,11 +15,11 @@ The texts for the tree corpora are found in `texts/`. The metadata is found in `
 
 ### 1800-1839
 
-This is a collection of 101 works published between 1800-1839.
+This is a collection of works published between 1800-1839.
 
 ### 1840-1869
 
-This is a collection of 101 works published between 1840-1869.
+This is a collection of works published between 1840-1869.
 
 ### konsensus korpus
 

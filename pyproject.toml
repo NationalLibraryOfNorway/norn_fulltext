@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "norn-fulltext"
+version = "0.1.0"
+description = ""
+authors = ["tungland <larsmtungland@gmail.com>"]
+license = "mit"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.0"
+dhlab = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

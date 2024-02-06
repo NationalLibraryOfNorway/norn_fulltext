@@ -1,0 +1,33 @@
+1800-1839_metadata.xlsx
+Number of rows in metadata: 101
+Number of unique urns in metadata: 101
+Number of unique dhlabids in metadata: 101
+Number of rows with dhlabid 101
+Number of rows without dhlabid 0
+Korpus rows: 101
+
+
+1840-1869_metadata.xlsx
+Number of rows in metadata: 241
+Number of unique urns in metadata: 238
+Number of unique dhlabids in metadata: 238
+Number of rows with dhlabid 241
+Number of rows without dhlabid 0
+Korpus rows: 238
+
+
+konsensus_korpus_annotated_with_metadata.xlsx
+Number of rows in metadata: 343
+Number of unique urns in metadata: 182
+Number of unique dhlabids in metadata: 178
+Number of rows with dhlabid 329
+Number of rows without dhlabid 14
+Korpus rows: 177
+
+
+texts/1840-1869
+238
+texts/konsensus_korpus
+159
+texts/1800-1839
+101

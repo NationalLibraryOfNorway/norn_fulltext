@@ -16,6 +16,7 @@ def check_corpus(df: DataFrame):
     print("Number of unique dhlabids in metadata: {}".format(len(df["dhlabid"].unique())))
     print("Number of rows with dhlabid {}".format(len(df[df["dhlabid"].notna()])))
     print("Number of rows without dhlabid {}".format(len(df[df["dhlabid"].isna()])))
+    print("Number files not in public domain: {}".format(len(df[df["public_domain"] == False].drop_duplicates(subset="urn"))))
     
     # Compare with dhlab
     c = dh.Corpus()

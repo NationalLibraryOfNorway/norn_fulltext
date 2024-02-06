@@ -4,6 +4,7 @@ Number of unique urns in metadata: 101
 Number of unique dhlabids in metadata: 101
 Number of rows with dhlabid 101
 Number of rows without dhlabid 0
+Number files not in public domain: 0
 Korpus rows: 101
 
 
@@ -13,6 +14,7 @@ Number of unique urns in metadata: 238
 Number of unique dhlabids in metadata: 238
 Number of rows with dhlabid 241
 Number of rows without dhlabid 0
+Number files not in public domain: 0
 Korpus rows: 238
 
 
@@ -22,6 +24,7 @@ Number of unique urns in metadata: 182
 Number of unique dhlabids in metadata: 178
 Number of rows with dhlabid 329
 Number of rows without dhlabid 14
+Number files not in public domain: 18
 Korpus rows: 177
 
 

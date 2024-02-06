@@ -1,3 +1,5 @@
+Checking NORN korpus
+
 1800-1839_metadata.xlsx
 Number of rows in metadata: 101
 Number of unique urns in metadata: 101
@@ -28,9 +30,7 @@ Number files not in public domain: 18
 Korpus rows: 177
 
 
-texts/1840-1869
-238
-texts/konsensus_korpus
-159
-texts/1800-1839
-101
+Number of files per folder
+texts/1840-1869 238
+texts/konsensus_korpus 159
+texts/1800-1839 101

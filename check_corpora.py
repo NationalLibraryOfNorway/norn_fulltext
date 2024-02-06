@@ -26,11 +26,17 @@ def check_corpus(df: DataFrame):
 def count_files():
     """Count files in each text folder"""
     folders = glob("texts/*")
-    for folder in folders:
-        print(folder)
-        print(len(glob(folder + "/*")))
+    
+    print("Number of files per folder")
+    
+    for folder in folders:    
+        print(folder, len(glob(folder + "/*")))
 
 def main():
+    
+    print("Checking NORN korpus")
+    print()
+    
     metadata_files = glob("metadata/*")
     dct = {}
     for file in metadata_files:
